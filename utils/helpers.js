@@ -1,5 +1,6 @@
+'use strict';
+
 exports.errorMessage = function (statusCode) {
-    'use strict';
     var error = {};
     switch (statusCode) {
         case 400:
@@ -16,4 +17,10 @@ exports.errorMessage = function (statusCode) {
     }
 
     return error;
+};
+
+exports.sendIMDBDatas = function (response) {
+    return function (data) {
+        response.json(data);
+    };
 };
