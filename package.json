@@ -1,0 +1,9 @@
+{
+    "name": "imdb-api-request",
+    "main": "server.js",
+    "dependencies": {
+        "express": "~4.0.0",
+        "cors": "~2.7.1",
+        "body-parser": "~1.0.1"
+    }
+}
