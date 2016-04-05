@@ -18,9 +18,3 @@ exports.errorMessage = function (statusCode) {
 
     return error;
 };
-
-exports.sendIMDBDatas = function (response) {
-    return function (data) {
-        response.json(data);
-    };
-};

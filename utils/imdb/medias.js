@@ -1,23 +1,24 @@
 'use strict';
 
-var http = require('http');
+var request = require('superagent');
+var helpers = require('../helpers');
 
-var idOptions = {
-    host: 'imdb.com'
-};
+exports.findMedias = function (query, serverResponse) {
+    var url = 'http://www.imdb.com/xml/find';
 
-exports.findMedias = function (query, sendIMDBData) {
-    idOptions.path = '/xml/find?json=1&nr=1&tt=on&q=' + query;
-
-    return http.get(idOptions, function (response) {
-        var data = '';
-        response.on('data', function (chunk) {
-            data += chunk;
+    return request
+        .get(url)
+        .query({ json: 1 })
+        .query({ nr: 1 })
+        .query({ tt: 'on' })
+        .query({ q: query })
+        .end(function (error, response) {
+            if (error || !response.ok) {
+                serverResponse
+                    .status(404)
+                    .json(helpers.errorMessage(404));
+            } else {
+                serverResponse.json(JSON.parse(response.text));
+            }
         });
-
-        response.on('end', function () {
-            var parsedMedias = JSON.parse(data);
-            sendIMDBData(parsedMedias);
-        });
-    });
 };

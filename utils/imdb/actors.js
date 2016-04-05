@@ -1,23 +1,25 @@
 'use strict';
 
-var http = require('http');
+var request = require('superagent');
+var helpers = require('../helpers');
 
-var idOptions = {
-    host: 'imdb.com'
+exports.findActors = function (query, serverResponse) {
+    var url = 'http://www.imdb.com/xml/find';
+
+    return request
+        .get(url)
+        .query({ json: 1 })
+        .query({ nr: 1 })
+        .query({ nm: 'on' })
+        .query({ q: query })
+        .end(function (error, response) {
+            if (error || !response.ok) {
+                serverResponse
+                    .status(404)
+                    .json(helpers.errorMessage(404));
+            } else {
+                serverResponse.json(JSON.parse(response.text));
+            }
+        });
 };
 
-exports.findActors = function (query, sendIMDBData) {
-    idOptions.path = '/xml/find?json=1&nr=1&nm=on&q=' + query;
-
-    return http.get(idOptions, function (response) {
-        var data = '';
-        response.on('data', function (chunk) {
-            data += chunk;
-        });
-
-        response.on('end', function () {
-            var parsedActors = JSON.parse(data);
-            sendIMDBData(parsedActors);
-        });
-    });
-};
