@@ -13,10 +13,10 @@ var corsOptions = {
 
 router.route('/search/actors')
     .options(cors(corsOptions))
-    .get(routes.findActors);
+    .get(cors(corsOptions), routes.findActors);
 
 router.route('/actors')
     .options(cors(corsOptions))
-    .get(routes.getActor);
+    .get(cors(corsOptions), routes.getActor);
 
 exports.router = router;
