@@ -22,3 +22,20 @@ exports.findMedias = function (query, serverResponse) {
             }
         });
 };
+
+exports.getMedia = function (query, serverResponse) {
+    var url = 'http://app.imdb.com/name/maindetails';
+
+    return request
+        .get(url)
+        .query({ tconst: query })
+        .end(function (error, response) {
+            if (error || !response.ok) {
+                serverResponse
+                    .status(404)
+                    .json(helpers.errorMessage(404));
+            } else {
+                serverResponse.json(JSON.parse(response.text));
+            }
+        });
+};

@@ -23,3 +23,19 @@ exports.findActors = function (query, serverResponse) {
         });
 };
 
+exports.getActor = function (query, serverResponse) {
+    var url = 'http://app.imdb.com/name/maindetails';
+
+    return request
+        .get(url)
+        .query({ nconst: query })
+        .end(function (error, response) {
+            if (error || !response.ok) {
+                serverResponse
+                    .status(404)
+                    .json(helpers.errorMessage(404));
+            } else {
+                serverResponse.json(JSON.parse(response.text));
+            }
+        });
+};
