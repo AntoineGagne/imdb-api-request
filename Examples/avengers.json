@@ -1,0 +1,792 @@
+{
+    "title_exact": [
+        {
+            "description": "1999 TV series,     <a href='/name/nm0456158/'>Jack Kirby</a>...",
+            "episode_title": "",
+            "id": "tt0203247",
+            "name": "",
+            "title": "Avengers: United They Stand",
+            "title_description": "1999 TV series,     <a href='/name/nm0456158/'>Jack Kirby</a>..."
+        },
+        {
+            "description": "1987 video game, ",
+            "episode_title": "",
+            "id": "tt2164490",
+            "name": "",
+            "title": "Avengers",
+            "title_description": "1987 video game, "
+        }
+    ],
+    "title_popular": [
+        {
+            "description": "2012,     <a href='/name/nm0923736/'>Joss Whedon</a>",
+            "episode_title": "",
+            "id": "tt0848228",
+            "name": "",
+            "title": "The Avengers",
+            "title_description": "2012,     <a href='/name/nm0923736/'>Joss Whedon</a>"
+        },
+        {
+            "description": "2015,     <a href='/name/nm0923736/'>Joss Whedon</a>",
+            "episode_title": "",
+            "id": "tt2395427",
+            "name": "",
+            "title": "Avengers: Age of Ultron",
+            "title_description": "2015,     <a href='/name/nm0923736/'>Joss Whedon</a>"
+        },
+        {
+            "description": "1961 TV series,     <a href='/name/nm0628285/'>Sydney Newman</a>",
+            "episode_title": "",
+            "id": "tt0054518",
+            "name": "",
+            "title": "The Avengers",
+            "title_description": "1961 TV series,     <a href='/name/nm0628285/'>Sydney Newman</a>"
+        },
+        {
+            "description": "1998, ",
+            "episode_title": "",
+            "id": "tt0118661",
+            "name": "",
+            "title": "The Avengers",
+            "title_description": "1998, "
+        }
+    ],
+    "title_substring": [
+        {
+            "description": "2010 TV series",
+            "episode_title": "",
+            "id": "tt1626038",
+            "name": "",
+            "title": "The Avengers: Earth&#x27;s Mightiest Heroes",
+            "title_description": "2010 TV series"
+        },
+        {
+            "description": "2006 video,     <a href='/name/nm0311435/'>Curt Geda</a>...",
+            "episode_title": "",
+            "id": "tt0491703",
+            "name": "",
+            "title": "Ultimate Avengers",
+            "title_description": "2006 video,     <a href='/name/nm0311435/'>Curt Geda</a>..."
+        },
+        {
+            "description": "2013 TV series",
+            "episode_title": "",
+            "id": "tt2455546",
+            "name": "",
+            "title": "Marvel&#x27;s Avengers Assemble",
+            "title_description": "2013 TV series"
+        },
+        {
+            "description": "2006 video,     <a href='/name/nm0582798/'>Will Meugniot</a>...",
+            "episode_title": "",
+            "id": "tt0803093",
+            "name": "",
+            "title": "Ultimate Avengers II",
+            "title_description": "2006 video,     <a href='/name/nm0582798/'>Will Meugniot</a>..."
+        },
+        {
+            "description": "2018,     <a href='/name/nm0751577/'>Anthony Russo</a>...",
+            "episode_title": "",
+            "id": "tt4154756",
+            "name": "",
+            "title": "Avengers: Infinity War - Part I",
+            "title_description": "2018,     <a href='/name/nm0751577/'>Anthony Russo</a>..."
+        },
+        {
+            "description": "2014 video,     <a href='/name/nm0793664/'>Kenichi Shimizu</a>",
+            "episode_title": "",
+            "id": "tt3482378",
+            "name": "",
+            "title": "Avengers Confidential: Black Widow &#x26; Punisher",
+            "title_description": "2014 video,     <a href='/name/nm0793664/'>Kenichi Shimizu</a>"
+        },
+        {
+            "description": "2008 video,     <a href='/name/nm0646515/'>Jay Oliva</a>...",
+            "episode_title": "",
+            "id": "tt1259998",
+            "name": "",
+            "title": "Next Avengers: Heroes of Tomorrow",
+            "title_description": "2008 video,     <a href='/name/nm0646515/'>Jay Oliva</a>..."
+        },
+        {
+            "description": "2011 TV series,     <a href='/name/nm3205229/'>Shawn Welling</a>",
+            "episode_title": "",
+            "id": "tt2256925",
+            "name": "",
+            "title": "AXI: Avengers of eXtreme Illusions",
+            "title_description": "2011 TV series,     <a href='/name/nm3205229/'>Shawn Welling</a>"
+        },
+        {
+            "description": "1978,     <a href='/name/nm0151653/'>Cheh Chang</a>",
+            "episode_title": "",
+            "id": "tt0077292",
+            "name": "",
+            "title": "Crippled Avengers",
+            "title_description": "1978,     <a href='/name/nm0151653/'>Cheh Chang</a>"
+        },
+        {
+            "description": "1976 TV series",
+            "episode_title": "",
+            "id": "tt0074031",
+            "name": "",
+            "title": "The New Avengers",
+            "title_description": "1976 TV series"
+        },
+        {
+            "description": "1997 TV movie,     <a href='/name/nm0002973/'>Lev L. Spiro</a>",
+            "episode_title": "",
+            "id": "tt0115503",
+            "name": "",
+            "title": "Alien Avengers",
+            "title_description": "1997 TV movie,     <a href='/name/nm0002973/'>Lev L. Spiro</a>"
+        },
+        {
+            "description": "2015,     <a href='/name/nm2877888/'>Jeremy M. Inman</a>",
+            "episode_title": "",
+            "id": "tt4296026",
+            "name": "",
+            "title": "Avengers Grimm",
+            "title_description": "2015,     <a href='/name/nm2877888/'>Jeremy M. Inman</a>"
+        },
+        {
+            "description": "1981,     <a href='/name/nm0151653/'>Cheh Chang</a>",
+            "episode_title": "",
+            "id": "tt0082153",
+            "name": "",
+            "title": "The Masked Avengers",
+            "title_description": "1981,     <a href='/name/nm0151653/'>Cheh Chang</a>"
+        },
+        {
+            "description": "2010 TV series",
+            "episode_title": "",
+            "id": "tt1779952",
+            "name": "",
+            "title": "Avengers Assemble!",
+            "title_description": "2010 TV series"
+        },
+        {
+            "description": "1977, ",
+            "episode_title": "",
+            "id": "tt0081539",
+            "name": "",
+            "title": "Soul Brothers of Kung Fu",
+            "title_description": "1977, "
+        },
+        {
+            "description": "1999 TV movie",
+            "episode_title": "",
+            "id": "tt0303738",
+            "name": "",
+            "title": "Hanokmin",
+            "title_description": "1999 TV movie"
+        },
+        {
+            "description": "1964,     <a href='/name/nm0210130/'>Alberto De Martino</a>",
+            "episode_title": "",
+            "id": "tt0058689",
+            "name": "",
+            "title": "Hercules vs. the Giant Warriors",
+            "title_description": "1964,     <a href='/name/nm0210130/'>Alberto De Martino</a>"
+        },
+        {
+            "description": "2016 video game,     <a href='/name/nm4834047/'>Arthur Parsons</a>",
+            "episode_title": "",
+            "id": "tt4776398",
+            "name": "",
+            "title": "Lego Marvel&#x27;s Avengers",
+            "title_description": "2016 video game,     <a href='/name/nm4834047/'>Arthur Parsons</a>"
+        },
+        {
+            "description": "1942,     <a href='/name/nm0294094/'>Harold French</a>",
+            "episode_title": "",
+            "id": "tt0034639",
+            "name": "",
+            "title": "The Avengers",
+            "title_description": "1942,     <a href='/name/nm0294094/'>Harold French</a>"
+        },
+        {
+            "description": "1998 TV movie,     <a href='/name/nm0668292/'>Dave Payne</a>",
+            "episode_title": "",
+            "id": "tt0118581",
+            "name": "",
+            "title": "Alien Avengers II",
+            "title_description": "1998 TV movie,     <a href='/name/nm0668292/'>Dave Payne</a>"
+        },
+        {
+            "description": "2000 video documentary short,     <a href='/name/nm0534631/'>Paul Madden</a>...",
+            "episode_title": "",
+            "id": "tt0285444",
+            "name": "",
+            "title": "Avenging the Avengers",
+            "title_description": "2000 video documentary short,     <a href='/name/nm0534631/'>Paul Madden</a>..."
+        },
+        {
+            "description": "1976,     <a href='/name/nm0151653/'>Cheh Chang</a>",
+            "episode_title": "",
+            "id": "tt0075031",
+            "name": "",
+            "title": "Boxer Rebellion",
+            "title_description": "1976,     <a href='/name/nm0151653/'>Cheh Chang</a>"
+        },
+        {
+            "description": "1991 video game",
+            "episode_title": "",
+            "id": "tt0421939",
+            "name": "",
+            "title": "Captain America and the Avengers",
+            "title_description": "1991 video game"
+        },
+        {
+            "description": "1979,     <a href='/name/nm0939381/'>Wah-Kei Wong</a>",
+            "episode_title": "",
+            "id": "tt0079110",
+            "name": "",
+            "title": "Three Avengers",
+            "title_description": "1979,     <a href='/name/nm0939381/'>Wah-Kei Wong</a>"
+        },
+        {
+            "description": "1976,     <a href='/name/nm0151653/'>Cheh Chang</a>",
+            "episode_title": "",
+            "id": "tt0074513",
+            "name": "",
+            "title": "The Shaolin Avengers",
+            "title_description": "1976,     <a href='/name/nm0151653/'>Cheh Chang</a>"
+        },
+        {
+            "description": "2012 video game",
+            "episode_title": "",
+            "id": "tt2355709",
+            "name": "",
+            "title": "Marvel: Avengers Alliance",
+            "title_description": "2012 video game"
+        },
+        {
+            "description": "2014 TV series",
+            "episode_title": "",
+            "id": "tt3644256",
+            "name": "",
+            "title": "Marvel Disk Wars: The Avengers",
+            "title_description": "2014 TV series"
+        },
+        {
+            "description": "2006,     <a href='/name/nm0155637/'>Wai-Man Cheng</a>",
+            "episode_title": "",
+            "id": "tt0991232",
+            "name": "",
+            "title": "Mor gwai tin si",
+            "title_description": "2006,     <a href='/name/nm0155637/'>Wai-Man Cheng</a>"
+        },
+        {
+            "description": "1987,     <a href='/name/nm0387301/'>Godfrey Ho</a>",
+            "episode_title": "",
+            "id": "tt0199812",
+            "name": "",
+            "title": "Ninja Avengers",
+            "title_description": "1987,     <a href='/name/nm0387301/'>Godfrey Ho</a>"
+        },
+        {
+            "description": "1994,     <a href='/name/nm0497005/'>Chiu Lee</a>",
+            "episode_title": "",
+            "id": "tt0185673",
+            "name": "",
+            "title": "Shao Lin ying xiong zhi Feng Shi-Yu Hong Zhi-Guan",
+            "title_description": "1994,     <a href='/name/nm0497005/'>Chiu Lee</a>"
+        },
+        {
+            "description": "2016 video game",
+            "episode_title": "",
+            "id": "tt5439146",
+            "name": "",
+            "title": "Avengers Academy",
+            "title_description": "2016 video game"
+        },
+        {
+            "description": "2013 short,     <a href='/name/nm1543682/'>Tom Grey</a>",
+            "episode_title": "",
+            "id": "tt3291874",
+            "name": "",
+            "title": "Avengers Age of Ultron: Marvelous Movie Shawarma",
+            "title_description": "2013 short,     <a href='/name/nm1543682/'>Tom Grey</a>"
+        },
+        {
+            "description": "2012 video short",
+            "episode_title": "",
+            "id": "tt3872762",
+            "name": "",
+            "title": "Avengers Assemble in the Playroom",
+            "title_description": "2012 video short"
+        },
+        {
+            "description": "2008 video short,     <a href='/name/nm2374766/'>Justin Paul Warren</a>",
+            "episode_title": "",
+            "id": "tt1545015",
+            "name": "",
+            "title": "Avengers of the Apocalypse!",
+            "title_description": "2008 video short,     <a href='/name/nm2374766/'>Justin Paul Warren</a>"
+        },
+        {
+            "description": "1973,     <a href='/name/nm0567179/'>Chris McCullough</a>",
+            "episode_title": "",
+            "id": "tt0069746",
+            "name": "",
+            "title": "Avengers of the Reef",
+            "title_description": "1973,     <a href='/name/nm0567179/'>Chris McCullough</a>"
+        },
+        {
+            "description": "2015 video,     <a href='/name/nm1050216/'>Dean McKendrick</a>",
+            "episode_title": "",
+            "id": "tt4180582",
+            "name": "",
+            "title": "Bikini Avengers",
+            "title_description": "2015 video,     <a href='/name/nm1050216/'>Dean McKendrick</a>"
+        },
+        {
+            "description": "2012 video documentary",
+            "episode_title": "",
+            "id": "tt2676344",
+            "name": "",
+            "title": "Building the Dream: Assembling the Avengers",
+            "title_description": "2012 video documentary"
+        },
+        {
+            "description": "2011 short,     <a href='/name/nm1855856/'>Myiea Coy</a>",
+            "episode_title": "",
+            "id": "tt1992098",
+            "name": "",
+            "title": "Bully Avengers",
+            "title_description": "2011 short,     <a href='/name/nm1855856/'>Myiea Coy</a>"
+        },
+        {
+            "description": "1959,     <a href='/name/nm0559431/'>Sadatsugu Matsuda</a>",
+            "episode_title": "",
+            "id": "tt0186921",
+            "name": "",
+            "title": "The 47 Masterless Samurai",
+            "title_description": "1959,     <a href='/name/nm0559431/'>Sadatsugu Matsuda</a>"
+        },
+        {
+            "description": "2006 video short,     <a href='/name/nm1510616/'>Mac Kenny</a>",
+            "episode_title": "",
+            "id": "tt0933366",
+            "name": "",
+            "title": "First Look at Ultimate Avengers II",
+            "title_description": "2006 video short,     <a href='/name/nm1510616/'>Mac Kenny</a>"
+        },
+        {
+            "description": "1964,     <a href='/name/nm0040789/'>Gianfranco Parolini</a>",
+            "episode_title": "",
+            "id": "tt0058651",
+            "name": "",
+            "title": "3 Avengers",
+            "title_description": "1964,     <a href='/name/nm0040789/'>Gianfranco Parolini</a>"
+        },
+        {
+            "description": "1970, ",
+            "episode_title": "",
+            "id": "tt0159091",
+            "name": "",
+            "title": "Fighters from Ave Maria",
+            "title_description": "1970, "
+        },
+        {
+            "description": "2015 TV movie,     <a href='/name/nm3241556/'>Rob Silvestri</a>",
+            "episode_title": "",
+            "id": "tt5371572",
+            "name": "",
+            "title": "Lego Marvel Super Heroes: Avengers Reassembled",
+            "title_description": "2015 TV movie,     <a href='/name/nm3241556/'>Rob Silvestri</a>"
+        },
+        {
+            "description": "2012 video game",
+            "episode_title": "",
+            "id": "tt2397511",
+            "name": "",
+            "title": "Marvel Avengers: Battle for Earth",
+            "title_description": "2012 video game"
+        },
+        {
+            "description": "1950,     <a href='/name/nm0041678/'>John H. Auer</a>",
+            "episode_title": "",
+            "id": "tt0167779",
+            "name": "",
+            "title": "The Avengers",
+            "title_description": "1950,     <a href='/name/nm0041678/'>John H. Auer</a>"
+        },
+        {
+            "description": "2013 video short,     <a href='/name/nm6004727/'>Vaughn Smith</a>",
+            "episode_title": "",
+            "id": "tt3328602",
+            "name": "",
+            "title": "The Avengers Badly Animated Adventures",
+            "title_description": "2013 video short,     <a href='/name/nm6004727/'>Vaughn Smith</a>"
+        },
+        {
+            "description": "2005,     <a href='/name/nm1761677/'>Brandon Slagle</a>...",
+            "episode_title": "",
+            "id": "tt0492596",
+            "name": "",
+            "title": "The Dark Avengers",
+            "title_description": "2005,     <a href='/name/nm1761677/'>Brandon Slagle</a>..."
+        },
+        {
+            "description": "1966,     <a href='/name/nm0939064/'>Fung Wong</a>",
+            "episode_title": "",
+            "id": "tt0060142",
+            "name": "",
+            "title": "The Avenger&#x27;s Tale: Part 2",
+            "title_description": "1966,     <a href='/name/nm0939064/'>Fung Wong</a>"
+        },
+        {
+            "description": "????",
+            "episode_title": "",
+            "id": "tt1109645",
+            "name": "",
+            "title": "Age of Vengeance",
+            "title_description": "????"
+        },
+        {
+            "description": "2013 short,     <a href='/name/nm6177434/'>John Gotschall</a>",
+            "episode_title": "",
+            "id": "tt3427178",
+            "name": "",
+            "title": "Angel Avengers: Brimstone",
+            "title_description": "2013 short,     <a href='/name/nm6177434/'>John Gotschall</a>"
+        },
+        {
+            "description": "2013 short,     <a href='/name/nm6177434/'>John Gotschall</a>",
+            "episode_title": "",
+            "id": "tt3427216",
+            "name": "",
+            "title": "Angel Avengers: Metal Gypsy",
+            "title_description": "2013 short,     <a href='/name/nm6177434/'>John Gotschall</a>"
+        },
+        {
+            "description": "2015 video documentary short",
+            "episode_title": "",
+            "id": "tt5180410",
+            "name": "",
+            "title": "Avengers: Age of Ultron - From the Inside Out: Making of Avengers - Age of Ultron",
+            "title_description": "2015 video documentary short"
+        },
+        {
+            "description": "2015 video short",
+            "episode_title": "",
+            "id": "tt5181714",
+            "name": "",
+            "title": "Avengers: Age of Ultron - Global Adventure",
+            "title_description": "2015 video short"
+        },
+        {
+            "description": "2015 short,     <a href='/name/nm3043632/'>Charles Dewandeler</a>",
+            "episode_title": "",
+            "id": "tt5262972",
+            "name": "",
+            "title": "Avengers: Age of Ultron Parody",
+            "title_description": "2015 short,     <a href='/name/nm3043632/'>Charles Dewandeler</a>"
+        },
+        {
+            "description": "2015 video short",
+            "episode_title": "",
+            "id": "tt5180980",
+            "name": "",
+            "title": "Avengers: Age of Ultron - The Infinite Six",
+            "title_description": "2015 video short"
+        },
+        {
+            "description": "2015 video short,     <a href='/name/nm7569277/'>Djassa Yao</a>",
+            "episode_title": "",
+            "id": "tt5003764",
+            "name": "",
+            "title": "Avengers: Avant l&#x27;&#xE8;re d&#x27;Ultron, La Parodie",
+            "title_description": "2015 video short,     <a href='/name/nm7569277/'>Djassa Yao</a>"
+        },
+        {
+            "description": "2016 short,     <a href='/name/nm3892355/'>Cecil D. Magpuri</a>",
+            "episode_title": "",
+            "id": "tt4924706",
+            "name": "",
+            "title": "Avengers: Battle of Ultron",
+            "title_description": "2016 short,     <a href='/name/nm3892355/'>Cecil D. Magpuri</a>"
+        },
+        {
+            "description": "2019,     <a href='/name/nm0751577/'>Anthony Russo</a>...",
+            "episode_title": "",
+            "id": "tt4154796",
+            "name": "",
+            "title": "Avengers: Infinity War - Part II",
+            "title_description": "2019,     <a href='/name/nm0751577/'>Anthony Russo</a>..."
+        },
+        {
+            "description": "2015 video short,     <a href='/name/nm2145037/'>Alan Hellard</a>",
+            "episode_title": "",
+            "id": "tt5377226",
+            "name": "",
+            "title": "Avengers Labs: Mark 43 Armour Tech",
+            "title_description": "2015 video short,     <a href='/name/nm2145037/'>Alan Hellard</a>"
+        },
+        {
+            "description": "2011 video short",
+            "episode_title": "",
+            "id": "tt2070607",
+            "name": "",
+            "title": "Avengers Unmasked: Hail, Hydra!",
+            "title_description": "2011 video short"
+        },
+        {
+            "description": "2011 video short",
+            "episode_title": "",
+            "id": "tt2070608",
+            "name": "",
+            "title": "Avengers Unmasked: Masters of Evil",
+            "title_description": "2011 video short"
+        },
+        {
+            "description": "2014 short,     <a href='/name/nm6619327/'>Emily Matsunami</a>",
+            "episode_title": "",
+            "id": "tt3851794",
+            "name": "",
+            "title": "Avian Avengers",
+            "title_description": "2014 short,     <a href='/name/nm6619327/'>Emily Matsunami</a>"
+        },
+        {
+            "description": "2015 video short,     <a href='/name/nm4668943/'>Zoran Gvojic</a>",
+            "episode_title": "",
+            "id": "tt4824324",
+            "name": "",
+            "title": "BigHead Avengers",
+            "title_description": "2015 video short,     <a href='/name/nm4668943/'>Zoran Gvojic</a>"
+        },
+        {
+            "description": "1969,     <a href='/name/nm1029587/'>Armando Garces</a>",
+            "episode_title": "",
+            "id": "tt1190633",
+            "name": "",
+            "title": "Blackbelt Avengers",
+            "title_description": "1969,     <a href='/name/nm1029587/'>Armando Garces</a>"
+        },
+        {
+            "description": "2013 documentary short,     <a href='/name/nm1806863/'>Howard Berry</a>",
+            "episode_title": "",
+            "id": "tt2853718",
+            "name": "",
+            "title": "Diabolical Masterminds: Working on &#x27;The Avengers&#x27;",
+            "title_description": "2013 documentary short,     <a href='/name/nm1806863/'>Howard Berry</a>"
+        },
+        {
+            "description": "2009 short,     <a href='/name/nm1437217/'>Paul Ratner</a>",
+            "episode_title": "",
+            "id": "tt1484963",
+            "name": "",
+            "title": "Eviction Avengers",
+            "title_description": "2009 short,     <a href='/name/nm1437217/'>Paul Ratner</a>"
+        },
+        {
+            "description": "???? short,     <a href='/name/nm7537005/'>Stuart Mckay</a>",
+            "episode_title": "",
+            "id": "tt4961220",
+            "name": "",
+            "title": "Feminist Avengers",
+            "title_description": "???? short,     <a href='/name/nm7537005/'>Stuart Mckay</a>"
+        },
+        {
+            "description": "1981,     <a href='/name/nm1840889/'>Pei-Chuan Li</a>",
+            "episode_title": "",
+            "id": "tt0164623",
+            "name": "",
+            "title": "Gui yu",
+            "title_description": "1981,     <a href='/name/nm1840889/'>Pei-Chuan Li</a>"
+        },
+        {
+            "description": "2015 short,     <a href='/name/nm5252141/'>Jack Rizzo</a>",
+            "episode_title": "",
+            "id": "tt4579064",
+            "name": "",
+            "title": "LEGO Avengers Tower: Invasion",
+            "title_description": "2015 short,     <a href='/name/nm5252141/'>Jack Rizzo</a>"
+        },
+        {
+            "description": "2012 video game,     <a href='/name/nm2282498/'>Todd Resnick</a>",
+            "episode_title": "",
+            "id": "tt2791440",
+            "name": "",
+            "title": "Marvel Pinball: Avengers Chronicles",
+            "title_description": "2012 video game,     <a href='/name/nm2282498/'>Todd Resnick</a>"
+        },
+        {
+            "description": "1944 documentary,     <a href='/name/nm0067610/'>Vasili Belayev</a>",
+            "episode_title": "",
+            "id": "tt0036194",
+            "name": "",
+            "title": "The People&#x27;s Avengers",
+            "title_description": "1944 documentary,     <a href='/name/nm0067610/'>Vasili Belayev</a>"
+        },
+        {
+            "description": "2015 video short,     <a href='/name/nm2145037/'>Alan Hellard</a>",
+            "episode_title": "",
+            "id": "tt5377260",
+            "name": "",
+            "title": "Playmation Marvel&#x27;s Avengers: How It Works",
+            "title_description": "2015 video short,     <a href='/name/nm2145037/'>Alan Hellard</a>"
+        },
+        {
+            "description": "2011 video short",
+            "episode_title": "",
+            "id": "tt5484160",
+            "name": "",
+            "title": "Road to &#x27;The Avengers&#x27;",
+            "title_description": "2011 video short"
+        },
+        {
+            "description": "????,     <a href='/name/nm3983190/'>Rob Horwitz</a>",
+            "episode_title": "",
+            "id": "tt3955902",
+            "name": "",
+            "title": "Sold Out",
+            "title_description": "????,     <a href='/name/nm3983190/'>Rob Horwitz</a>"
+        },
+        {
+            "description": "1993 video",
+            "episode_title": "",
+            "id": "tt2514864",
+            "name": "",
+            "title": "The Avengers: A Retrospective",
+            "title_description": "1993 video"
+        },
+        {
+            "description": "2012 video short",
+            "episode_title": "",
+            "id": "tt5180254",
+            "name": "",
+            "title": "The Avengers: Assembling the Ultimate Team",
+            "title_description": "2012 video short"
+        },
+        {
+            "description": "2012 video short",
+            "episode_title": "",
+            "id": "tt5180256",
+            "name": "",
+            "title": "The Avengers: A Visual Journey",
+            "title_description": "2012 video short"
+        },
+        {
+            "description": "2013 short, ",
+            "episode_title": "",
+            "id": "tt4070086",
+            "name": "",
+            "title": "The Avengers Lego Adventure",
+            "title_description": "2013 short, "
+        },
+        {
+            "description": "2005 TV documentary,     <a href='/name/nm1880655/'>Sara Tiefenbrun</a>",
+            "episode_title": "",
+            "id": "tt1560608",
+            "name": "",
+            "title": "The Avengers Revisited",
+            "title_description": "2005 TV documentary,     <a href='/name/nm1880655/'>Sara Tiefenbrun</a>"
+        },
+        {
+            "description": "1998 TV documentary,     <a href='/name/nm1075607/'>Clyde Lucas</a>",
+            "episode_title": "",
+            "id": "tt1350478",
+            "name": "",
+            "title": "The Avengers: The Journey Back",
+            "title_description": "1998 TV documentary,     <a href='/name/nm1075607/'>Clyde Lucas</a>"
+        },
+        {
+            "description": "2013 short,     <a href='/name/nm2665731/'>Jonathan Sims</a>",
+            "episode_title": "",
+            "id": "tt2982544",
+            "name": "",
+            "title": "The Avengers: Unhulked",
+            "title_description": "2013 short,     <a href='/name/nm2665731/'>Jonathan Sims</a>"
+        },
+        {
+            "description": "2012 short,     <a href='/name/nm2352792/'>Alex Fernie</a>",
+            "episode_title": "",
+            "id": "tt2155018",
+            "name": "",
+            "title": "The Avengers vs. The Economy",
+            "title_description": "2012 short,     <a href='/name/nm2352792/'>Alex Fernie</a>"
+        },
+        {
+            "description": "2011 video short,     <a href='/name/nm4261082/'>Paul Wyatt</a>",
+            "episode_title": "",
+            "id": "tt1815965",
+            "name": "",
+            "title": "The Avengers: Wish You Were Here? - The Top Ten London Locations",
+            "title_description": "2011 video short,     <a href='/name/nm4261082/'>Paul Wyatt</a>"
+        },
+        {
+            "description": "????",
+            "episode_title": "",
+            "id": "tt3157424",
+            "name": "",
+            "title": "The Avengers: Zimna Wojna",
+            "title_description": "????"
+        },
+        {
+            "description": "2012 short,     <a href='/name/nm7320170/'>Ian Rodgers</a>",
+            "episode_title": "",
+            "id": "tt4677550",
+            "name": "",
+            "title": "The Rodgers Family Meets the Avengers",
+            "title_description": "2012 short,     <a href='/name/nm7320170/'>Ian Rodgers</a>"
+        },
+        {
+            "description": "1966,     <a href='/name/nm0939064/'>Fung Wong</a>",
+            "episode_title": "",
+            "id": "tt0060141",
+            "name": "",
+            "title": "The Avenger&#x27;s Tale: Part 1",
+            "title_description": "1966,     <a href='/name/nm0939064/'>Fung Wong</a>"
+        },
+        {
+            "description": "????",
+            "episode_title": "",
+            "id": "tt1472588",
+            "name": "",
+            "title": "Vegas Avengers",
+            "title_description": "????"
+        },
+        {
+            "description": "2012 video,     <a href='/name/nm1345701/'>Axel Braun</a>",
+            "episode_title": "",
+            "id": "tt2332811",
+            "name": "",
+            "title": "Avengers XXX: A Porn Parody",
+            "title_description": "2012 video,     <a href='/name/nm1345701/'>Axel Braun</a>"
+        },
+        {
+            "description": "2015 video,     <a href='/name/nm1345701/'>Axel Braun</a>",
+            "episode_title": "",
+            "id": "tt4647878",
+            "name": "",
+            "title": "Avengers XXX 2: An Axel Braun Porn Parody",
+            "title_description": "2015 video,     <a href='/name/nm1345701/'>Axel Braun</a>"
+        },
+        {
+            "description": "2011 video,     <a href='/name/nm0599021/'>Jonathan Morgan</a>",
+            "episode_title": "",
+            "id": "tt2005411",
+            "name": "",
+            "title": "XXX Avengers",
+            "title_description": "2011 video,     <a href='/name/nm0599021/'>Jonathan Morgan</a>"
+        },
+        {
+            "description": "2015 video,     <a href='/name/nm1345701/'>Axel Braun</a>",
+            "episode_title": "",
+            "id": "tt5289318",
+            "name": "",
+            "title": "Avengers vs X-Men XXX: An Axel Braun Parody",
+            "title_description": "2015 video,     <a href='/name/nm1345701/'>Axel Braun</a>"
+        },
+        {
+            "description": "2004 video,     <a href='/name/nm1628197/'>Igor Pickles</a>",
+            "episode_title": "",
+            "id": "tt0413991",
+            "name": "",
+            "title": "Erotic Avengers",
+            "title_description": "2004 video,     <a href='/name/nm1628197/'>Igor Pickles</a>"
+        }
+    ]
+}

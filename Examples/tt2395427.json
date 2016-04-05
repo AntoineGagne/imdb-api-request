@@ -1,0 +1,323 @@
+{
+    "@meta": {
+        "requestId": "0VJ6SV1NA1Q4J608WQ88",
+        "serverTimeMs": 57
+    },
+    "copyright": "For use only by clients authorized in writing by IMDb.  Authors and users of unauthorized clients accept full legal exposure/liability for their actions.",
+    "data": {
+        "best_plot": {
+            "outline": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's Mightiest Heroes to stop the villainous Ultron from enacting his terrible plans.",
+            "total_summaries": 3
+        },
+        "can_rate": true,
+        "cast_summary": [
+            {
+                "char": "Tony Stark/Iron Man",
+                "name": {
+                    "image": {
+                        "height": 2048,
+                        "url": "http://ia.media-imdb.com/images/M/MV5BMTAwNjk2NTUyMzleQTJeQWpwZ15BbWU3MDQ2NzQzMTc@._V1_.jpg",
+                        "width": 1414
+                    },
+                    "name": "Robert Downey Jr.",
+                    "nconst": "nm0000375"
+                }
+            },
+            {
+                "char": "Steve Rogers/Captain America",
+                "name": {
+                    "image": {
+                        "height": 400,
+                        "url": "http://ia.media-imdb.com/images/M/MV5BMTU2NTg1OTQzMF5BMl5BanBnXkFtZTcwNjIyMjkyMg@@._V1_.jpg",
+                        "width": 285
+                    },
+                    "name": "Chris Evans",
+                    "nconst": "nm0262635"
+                }
+            },
+            {
+                "char": "Bruce Banner/Hulk",
+                "name": {
+                    "image": {
+                        "height": 400,
+                        "url": "http://ia.media-imdb.com/images/M/MV5BMTI5MjMwNjAzNF5BMl5BanBnXkFtZTcwMzkyNDg1Mw@@._V1_.jpg",
+                        "width": 258
+                    },
+                    "name": "Mark Ruffalo",
+                    "nconst": "nm0749263"
+                }
+            },
+            {
+                "char": "Thor",
+                "name": {
+                    "image": {
+                        "height": 576,
+                        "url": "http://ia.media-imdb.com/images/M/MV5BOTU2MTI0NTIyNV5BMl5BanBnXkFtZTcwMTA4Nzc3OA@@._V1_.jpg",
+                        "width": 384
+                    },
+                    "name": "Chris Hemsworth",
+                    "nconst": "nm1165110"
+                }
+            }
+        ],
+        "certificate": {
+            "attr": "(certificate #49658)",
+            "certificate": "PG-13"
+        },
+        "directors_summary": [
+            {
+                "name": {
+                    "image": {
+                        "height": 2048,
+                        "url": "http://ia.media-imdb.com/images/M/MV5BMTg5MzQ0MDA4MF5BMl5BanBnXkFtZTcwNzUwOTk4OQ@@._V1_.jpg",
+                        "width": 1546
+                    },
+                    "name": "Joss Whedon",
+                    "nconst": "nm0923736"
+                }
+            }
+        ],
+        "genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "goof": "In the salvage yard the vessel \"Churchill\" has \"Great Britain\" as a registry port. This is incorrect as Great Britain is not a registry port (correct example: London, Liverpool..) the convention for lettering on the stern of a vessel is Ships name with registry port below - not country.",
+        "has": [
+            "more_cast",
+            "trivia",
+            "goofs",
+            "quotes",
+            "more_writers",
+            "more_plot",
+            "parentalguide",
+            "synopsis",
+            "user_comments",
+            "external_reviews",
+            "photos"
+        ],
+        "image": {
+            "height": 1280,
+            "url": "http://ia.media-imdb.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_.jpg",
+            "width": 864
+        },
+        "news": {
+            "@type": "mobile.news.list",
+            "channel": "tt2395427",
+            "items": [
+                {
+                    "datetime": "2016-04-04T03:16:00Z",
+                    "head": "Captain America vs Black Panther In New 'Captain America: Civil War' TV Spot",
+                    "id": "ni59687362",
+                    "source": "ns0000300"
+                },
+                {
+                    "datetime": "2016-04-03T13:00:00Z",
+                    "head": "Tom Hiddleston says Kong: Skull Island will be \u201cspectacular and epic\u201d",
+                    "id": "ni59686363",
+                    "source": "ns0003561"
+                },
+                {
+                    "datetime": "2016-04-02T19:38:00Z",
+                    "head": "Unlock the secrets of Star Wars: The Force Awakens with three behind-the-scenes featurettes",
+                    "id": "ni59685870",
+                    "source": "ns0003561"
+                }
+            ],
+            "label": "Avengers: Age of Ultron",
+            "limit": 3,
+            "markup": "flat",
+            "sources": {
+                "ns0000300": {
+                    "label": "LatinoReview",
+                    "logo": "http://ia.media-imdb.com/images/M/MV5BMzg0MTU0ODE2OF5BMl5BanBnXkFtZTcwMTA2NTAwMw@@._V1._SY140_.jpg",
+                    "url": "http://www.latinoreview.com"
+                },
+                "ns0003561": {
+                    "label": "Flickeringmyth",
+                    "logo": "http://ia.media-imdb.com/images/M/MV5BMTQ5MzA1NDA2OV5BMl5BanBnXkFtZTcwNDcwODY3Mw@@._V1._SY140_.jpg",
+                    "url": "http://www.flickeringmyth.com"
+                }
+            },
+            "start": 0,
+            "total": 12540
+        },
+        "num_votes": 417610,
+        "photos": [
+            {
+                "image": {
+                    "height": 852,
+                    "url": "http://ia.media-imdb.com/images/M/MV5BMjAzMTc2MzI5NF5BMl5BanBnXkFtZTgwMjMwMjQ0NTE@._V1_.jpg",
+                    "width": 2048
+                },
+                "link": "http://www.imdb.com/rg/appphoto/link/media/rm1783690752/tt2395427"
+            },
+            {
+                "image": {
+                    "height": 852,
+                    "url": "http://ia.media-imdb.com/images/M/MV5BMTQ1Mzk3Mzc1NV5BMl5BanBnXkFtZTgwMTIwMjQ0NTE@._V1_.jpg",
+                    "width": 2048
+                },
+                "link": "http://www.imdb.com/rg/appphoto/link/media/rm1699804672/tt2395427"
+            },
+            {
+                "image": {
+                    "height": 1462,
+                    "url": "http://ia.media-imdb.com/images/M/MV5BMTk5NjMyOTQzOV5BMl5BanBnXkFtZTgwMDM2OTE0NTE@._V1_.jpg",
+                    "width": 2048
+                },
+                "link": "http://www.imdb.com/rg/appphoto/link/media/rm209450496/tt2395427"
+            },
+            {
+                "image": {
+                    "height": 852,
+                    "url": "http://ia.media-imdb.com/images/M/MV5BMTU3NjU0OTUxNl5BMl5BanBnXkFtZTgwODIwMjQ0NTE@._V1_.jpg",
+                    "width": 2048
+                },
+                "link": "http://www.imdb.com/rg/appphoto/link/media/rm1850799616/tt2395427"
+            },
+            {
+                "image": {
+                    "height": 851,
+                    "url": "http://ia.media-imdb.com/images/M/MV5BMTU2MTgyNjQxM15BMl5BanBnXkFtZTgwMzIwMjQ0NTE@._V1_.jpg",
+                    "width": 2048
+                },
+                "link": "http://www.imdb.com/rg/appphoto/link/media/rm1666250240/tt2395427"
+            },
+            {
+                "image": {
+                    "height": 852,
+                    "url": "http://ia.media-imdb.com/images/M/MV5BMTc2NTk0Nzk1Ml5BMl5BanBnXkFtZTgwNTIwMjQ0NTE@._V1_.jpg",
+                    "width": 2048
+                },
+                "link": "http://www.imdb.com/rg/appphoto/link/media/rm1632695808/tt2395427"
+            }
+        ],
+        "plot": {
+            "more": 1,
+            "outline": "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's Mightiest Heroes to stop the villainous Ultron from enacting his terrible plans."
+        },
+        "quote": {
+            "lines": [
+                {
+                    "stage": "first lines"
+                },
+                {
+                    "chars": [
+                        {
+                            "char": "Strucker",
+                            "nconst": "nm0470981"
+                        }
+                    ],
+                    "quote": "Report to your stations immediately. This is not a drill. We are under attack!",
+                    "stage": "on PA system"
+                }
+            ],
+            "qconst": "qt2676762"
+        },
+        "rating": 7.5,
+        "release_date": {
+            "normal": "2015-05-01"
+        },
+        "runtime": {
+            "time": 8460
+        },
+        "tagline": "A new age begins",
+        "tconst": "tt2395427",
+        "title": "Avengers: Age of Ultron",
+        "trailer": {
+            "@type": "mobile.media.video",
+            "content_type": "Trailer",
+            "description": "Watch new scenes from Avengers: Age of Ultron.\r\n",
+            "duration_seconds": 91,
+            "encodings": {
+                "H.264 Fire 600": {
+                    "format": "H.264 Fire 600",
+                    "url": "http://video-http.media-imdb.com/MV5BNDc1MmQ1NTUtMTJkNC00NTJmLTlmMWQtN2Y1M2JlODFkMjA5XkExMV5BbXA0XkFpbWRiLWV0cy10cmFuc2NvZGU@.mp4?Expires=1459808712&Signature=O0XG-5cWHPYoKqI8mPzwGd4zm8XZbXS0cBmWyOQAknegZFreypCiGkhyzn7AqL3X2sm542WkCnQ~K4hiXQQaUbsTNEROhNnalocmQrLLelgm5M~5fHzaC8ufL7DvfWe89Rry1MjK9~tVl0qTQ662Dev0EMC-sUcqCMHYOw0DwRQ_&Key-Pair-Id=APKAILW5I44IHKUN2DYA"
+                },
+                "HD 480p": {
+                    "format": "HD 480p",
+                    "url": "http://video-http.media-imdb.com/MV5BMzZhZWRlNDUtZDViZS00OTRkLTg2OWYtZjUxYzgxMTg4Y2Y2XkExMV5BbXA0XkFpbWRiLWV0cy10cmFuc2NvZGU@.mp4?Expires=1459808712&Signature=fgmiRbwSeCJ1thELlCOrA06SMTd5smqivqSO8cDs4OyssPnWmFdfirjR0iyVIIn2i6MziNY~s99ONk0BtQ8GxSfgFtGzvOT-RU8hYuK5X1StohQ~7myU4FH~9BeRN~JYGnmH-3pYE4Gos86JnDnaXTqjBxQFPJNC3ALdThsVPoI_&Key-Pair-Id=APKAILW5I44IHKUN2DYA"
+                },
+                "HD 720p": {
+                    "format": "HD 720p",
+                    "url": "http://video-http.media-imdb.com/MV5BN2I5OWE0MTMtZGUxZi00NmE1LWI2NGUtNGY3NzY4N2RjZmJkXkExMV5BbXA0XkFpbWRiLWV0cy10cmFuc2NvZGU@.mp4?Expires=1459808712&Signature=x2cfNgz8ednFNn~meseEvVxdI8cVAm-aVeqc85kTV7Hs2TxWEheDL-o5tju4oQbi97XgG2PVj7XjAU3QLSaoxq~rfkTGx7m0m2Lm7q9dFsdJ3pwbTD45zghtytdUEIXMdhMmvwqK2eyQAY-FtVhSIjN8jdJj3qhunMnpLYv2r94_&Key-Pair-Id=APKAILW5I44IHKUN2DYA"
+                },
+                "iPhone 3G": {
+                    "format": "iPhone 3G",
+                    "url": "http://video-http.media-imdb.com/MV5BYmZjMTAzYjktZDZiYi00M2NiLWJkOWItYTY0NjE1MWI1OTFmXkExMV5BbXA0XkFpbWRiLWV0cy10cmFuc2NvZGU@.mp4?Expires=1459808712&Signature=UaKT3e9OngXr~FPDf5oGDNCHVJsC-hu3jIh4eCBwtksElfxa2-ZB2bzK6HTNVrNdTkFBF9RfW5ksrjUs1PyJKpFPZPaCml00KWc~dur-OWjx2AxUW7QtBmcmhtElQtsniA5T84gd8U2f4uVpAmjflBfEVbQJESpv~ABo0ajCUuY_&Key-Pair-Id=APKAILW5I44IHKUN2DYA"
+                }
+            },
+            "id": "vi2821566745",
+            "relatedName": {
+                "image": {
+                    "height": 2048,
+                    "url": "http://ia.media-imdb.com/images/M/MV5BMTAwNjk2NTUyMzleQTJeQWpwZ15BbWU3MDQ2NzQzMTc@._V1_.jpg",
+                    "width": 1414
+                },
+                "name": "Robert Downey Jr.",
+                "nconst": "nm0000375"
+            },
+            "relatedTitle": {
+                "image": {
+                    "height": 1280,
+                    "url": "http://ia.media-imdb.com/images/M/MV5BMTM4OGJmNWMtOTM4Ni00NTE3LTg3MDItZmQxYjc4N2JhNmUxXkEyXkFqcGdeQXVyNTgzMDMzMTg@._V1_.jpg",
+                    "width": 864
+                },
+                "title": "Avengers: Age of Ultron",
+                "title_id": "tt2395427",
+                "type": "feature",
+                "year": "2015"
+            },
+            "slates": [
+                {
+                    "height": 800,
+                    "url": "http://ia.media-imdb.com/images/M/MV5BMjMwODY5NjM3NF5BMl5BanBnXkFtZTgwNTU0ODExNTE@._V1_.jpg",
+                    "width": 1920
+                }
+            ],
+            "title": "Watch New Scenes"
+        },
+        "trivium": "According to VFX supervisor Ben Snow, the Hulk was remodelled to bear a closer resemblance to Mark Ruffalo (Bruce Banner). This was accomplished by programming a system of muscles over Ruffalo's existing muscles: \"I don't want to come in and see a Hulk without muscles properly deforming. When you flex a muscle, it retains volume - it can get firmer, its shape will change. We were able to leverage the research so that in an action like a bending arm the muscle doesn't just squash, it actually changes shape. We ended up moving up towards a lot more physical and correct thing where you had a three-dimensional mesh driving a skin mesh that would slide in two dimensions and then there was a soft spring mechanism attaching those.\"",
+        "type": "feature",
+        "user_comment": {
+            "date": "2015-04-25",
+            "status": "G",
+            "summary": "Marvel rescued blockbuster-cinema",
+            "text": "Nothing more, nothing less.\n\nHollywood was out of idead, until Marvel became company with Disney and created a masterplan for a saga containing some of the greatest stories in comicbook-history onto celluloid...a few years ago everyone would have said: \"Impossible to do\".\n\nNow the Infinity-Gauntlet-story gets more and more real, including the Civil-Wars, Ragnar\u00f6k and more of the most complex comicbook- sagas into ONE big masterplan.\n\nEvery other studio tries no to create it's own universe, it revoluted blockbuster-history, and I dare to say it saved cinema for a long time.\n\nAoU is no exception: (I want to exclude spoilers) So many big names, characters and story are meanwhile puzzled to one highly anticipated climax, which becomes reality in a few years.\n\nI'm deeply impressed and say one thing to the Americans, who will see AoU from next week on: The first Avengers was a small French comedy compared to AoU.\n\nIt's spectacular, overloaded and FULLY comic-related.\n\nOf course there are plot holes, logical errors etc., that's cinema. But the way HOW the story evolves to a common sense, the way it was planned before, the way fresh characters continue hooking on the Saga-train...there is no comparable example to this.\n\nThe MCU and the Infinity-Gauntlet-story has it's place in Cinema- history already.\n\nOf course DC can make it better, there is still improvement-space left. But Marvel started it all...many thanks to Kevin Feige and his ideas!",
+            "user_location": "Vienna, Austria",
+            "user_name": "quargelbrot",
+            "user_rating": 10,
+            "user_score": 27,
+            "user_score_count": 47
+        },
+        "writers_summary": [
+            {
+                "attr": "(written by)",
+                "name": {
+                    "image": {
+                        "height": 2048,
+                        "url": "http://ia.media-imdb.com/images/M/MV5BMTg5MzQ0MDA4MF5BMl5BanBnXkFtZTcwNzUwOTk4OQ@@._V1_.jpg",
+                        "width": 1546
+                    },
+                    "name": "Joss Whedon",
+                    "nconst": "nm0923736"
+                }
+            },
+            {
+                "attr": "(Marvel comics) ...",
+                "name": {
+                    "image": {
+                        "height": 400,
+                        "url": "http://ia.media-imdb.com/images/M/MV5BMTk3NDE3Njc5M15BMl5BanBnXkFtZTYwOTY5Nzc1._V1_.jpg",
+                        "width": 278
+                    },
+                    "name": "Stan Lee",
+                    "nconst": "nm0498278"
+                }
+            }
+        ],
+        "year": "2015"
+    },
+    "exp": 1459792177
+}
