@@ -8,44 +8,44 @@ This section lists all the routes of the API along with the required parameters.
 
 ### Search by title/name
 
-- `GET /search/medias`:
+- `POST /search/medias`:
 
 Parameter:
 
 ```js
 {
-    "query": "movie or tv show title"
+    "query": "movie+or+tv+show+title"
 }
 ```
 
-- `GET /search/actors`:
+- `POST /search/actors`:
 
 Parameter:
 
 ```js
 {
-    "query": "actor name"
+    "query": "actor+name"
 }
 ```
 
 ### Get by ID
 
-- `GET /medias`:
+- `POST /medias`:
 
 Parameter:
 
 ```js
 {
-    "query": "media imdb id"
+    "query": "media+imdb+id"
 }
 ```
 
-- `GET /actors`:
+- `POST /actors`:
 
 Parameter:
 
 ```js
 {
-    "query": "actor imdb id"
+    "query": "actor+imdb+id"
 }
 ```
