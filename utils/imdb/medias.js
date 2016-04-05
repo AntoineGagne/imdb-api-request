@@ -24,7 +24,7 @@ exports.findMedias = function (query, serverResponse) {
 };
 
 exports.getMedia = function (query, serverResponse) {
-    var url = 'http://app.imdb.com/name/maindetails';
+    var url = 'http://app.imdb.com/title/maindetails';
 
     return request
         .get(url)
