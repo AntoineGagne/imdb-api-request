@@ -5,9 +5,9 @@ var router  = express.Router();
 var routes  = require('./methods/actors');
 
 router.route('/search/actors')
-    .get(routes.findActors);
+    .post(routes.findActors);
 
 router.route('/actors')
-    .get(routes.getActor);
+    .post(routes.getActor);
 
 exports.router = router;

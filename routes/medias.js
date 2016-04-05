@@ -5,9 +5,9 @@ var router  = express.Router();
 var routes  = require('./methods/medias');
 
 router.route('/search/medias')
-    .get(routes.findMedias);
+    .post(routes.findMedias);
 
 router.route('/medias')
-    .get(routes.getMedia);
+    .post(routes.getMedia);
 
 exports.router = router;

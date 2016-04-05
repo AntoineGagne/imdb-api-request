@@ -12,7 +12,7 @@ var app  = express();
 
 var corsOptions = {
     origin: '*',
-    methods: ['GET']
+    methods: ['POST']
 };
 
 app.use(cors(corsOptions));
