@@ -15,7 +15,7 @@ var corsOptions = {
     methods: ['GET', 'OPTIONS']
 };
 
-app.use(cors());
+app.use(cors(corsOptions));
 app.use(bodyParser.json());
 
 app.use('/', medias.router);
