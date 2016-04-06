@@ -10,4 +10,10 @@ router.route('/search/medias')
 router.route('/medias')
     .post(routes.getMedia);
 
+router.route('/medias/top/tvshows')
+    .get(routes.getTopRatedTVShows);
+
+router.route('/medias/top/movies')
+    .get(routes.getTopRatedMovies);
+
 exports.router = router;

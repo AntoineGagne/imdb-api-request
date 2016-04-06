@@ -18,3 +18,11 @@ exports.getMedia = function (request, response) {
         imdbRequests.getMedia(request.body.query, response);
     }
 };
+
+exports.getTopRatedTVShows = function (_, response) {
+    imdbRequests.getTopRatedTVShows(response);
+};
+
+exports.getTopRatedMovies = function (_, response) {
+    imdbRequests.getTopRatedMovies(response);
+};

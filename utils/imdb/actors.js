@@ -3,6 +3,8 @@
 var request = require('superagent');
 var helpers = require('../helpers');
 
+var baseURL = 'http://app.imdb.com';
+
 exports.findActors = function (query, serverResponse) {
     var url = 'http://www.imdb.com/xml/find';
 
@@ -24,7 +26,7 @@ exports.findActors = function (query, serverResponse) {
 };
 
 exports.getActor = function (query, serverResponse) {
-    var url = 'http://app.imdb.com/name/maindetails';
+    var url = baseURL + '/name/maindetails';
 
     return request
         .get(url)
