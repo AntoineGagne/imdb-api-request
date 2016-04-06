@@ -18,6 +18,9 @@ Parameter:
 }
 ```
 
+Returns:
+    List of movies or TV shows
+
 - `POST /search/actors`:
 
 Parameter:
@@ -27,6 +30,9 @@ Parameter:
     "query": "actor+name"
 }
 ```
+
+Returns:
+    List of actors
 
 ### Get by ID
 
@@ -40,6 +46,9 @@ Parameter:
 }
 ```
 
+Returns:
+    The informations of the movie
+
 - `POST /medias/images`:
 
 Parameter:
@@ -49,6 +58,9 @@ Parameter:
     "query": "media+imdb+id"
 }
 ```
+
+Returns:
+    The images of a movie
 
 - `POST /medias/credits`:
 
@@ -60,6 +72,9 @@ Parameter:
 }
 ```
 
+Returns:
+    The credits of the movie
+
 - `POST /medias/usercomments`:
 
 Parameter:
@@ -69,6 +84,9 @@ Parameter:
     "query": "media+imdb+id"
 }
 ```
+
+Returns:
+    The user comments of the movie
 
 - `POST /medias/plot`:
 
@@ -80,6 +98,9 @@ Parameter:
 }
 ```
 
+Returns:
+    The plot of the movie
+
 - `GET /medias/top/tvshows`:
 
 Parameter:
@@ -89,6 +110,9 @@ Parameter:
     "query": "media+imdb+id"
 }
 ```
+
+Returns:
+    List of the 250 top rated TV shows
 
 - `GET /medias/top/movies`:
 
@@ -100,6 +124,9 @@ Parameter:
 }
 ```
 
+Returns:
+    List of the 250 top rated movies
+
 - `POST /actors`:
 
 Parameter:
@@ -109,3 +136,6 @@ Parameter:
     "query": "actor+imdb+id"
 }
 ```
+
+Returns:
+    The informations of the actor
