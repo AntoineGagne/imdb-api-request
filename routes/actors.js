@@ -10,4 +10,7 @@ router.route('/search/actors')
 router.route('/actors')
     .post(routes.getActor);
 
+router.route('/actors/images')
+    .post(routes.getActorImages);
+
 exports.router = router;

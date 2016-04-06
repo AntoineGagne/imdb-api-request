@@ -27,3 +27,13 @@ exports.getActor = function (query, serverResponse) {
         .query({ nconst: query })
         .end(handleResponse);
 };
+
+exports.getActorImages = function (query, serverResponse) {
+    var url = baseURL + '/name/photos';
+    var handleResponse = helpers.handleResponse(serverResponse);
+
+    return request
+        .get(url)
+        .query({ nconst: query })
+        .end(handleResponse);
+};

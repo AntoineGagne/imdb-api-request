@@ -10,6 +10,18 @@ router.route('/search/medias')
 router.route('/medias')
     .post(routes.getMedia);
 
+router.route('/medias/images')
+    .post(routes.getMediaImages);
+
+router.route('/medias/credits')
+    .post(routes.getMediaCredits);
+
+router.route('/medias/usercomments')
+    .post(routes.getUserComments);
+
+router.route('/medias/plot')
+    .post(routes.getMediaPlot);
+
 router.route('/medias/top/tvshows')
     .get(routes.getTopRatedTVShows);
 

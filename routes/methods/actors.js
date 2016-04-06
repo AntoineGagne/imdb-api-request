@@ -18,3 +18,11 @@ exports.getActor = function (request, response) {
         imdbRequests.getActor(request.body.query, response);
     }
 };
+
+exports.getActorImages = function (request, response) {
+    if (!request.body || !request.body.query) {
+        response.status(400).json(helpers.errorMessage(400));
+    } else {
+        imdbRequests.getActorImages(request.body.query, response);
+    }
+};

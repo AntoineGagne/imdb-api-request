@@ -28,6 +28,46 @@ exports.getMedia = function (query, serverResponse) {
         .end(handleResponse);
 };
 
+exports.getMediaImages = function (query, serverResponse) {
+    var url = baseURL + '/title/photos';
+    var handleResponse = helpers.handleResponse(serverResponse);
+
+    return request
+        .get(url)
+        .query({ tconst: query })
+        .end(handleResponse);
+};
+
+exports.getMediaCredits = function (query, serverResponse) {
+    var url = baseURL + '/title/fullcredits';
+    var handleResponse = helpers.handleResponse(serverResponse);
+
+    return request
+        .get(url)
+        .query({ tconst: query })
+        .end(handleResponse);
+};
+
+exports.getUserComments = function (query, serverResponse) {
+    var url = baseURL + '/title/usercomments';
+    var handleResponse = helpers.handleResponse(serverResponse);
+
+    return request
+        .get(url)
+        .query({ tconst: query })
+        .end(handleResponse);
+};
+
+exports.getMediaPlot = function (query, serverResponse) {
+    var url = baseURL + '/title/plot';
+    var handleResponse = helpers.handleResponse(serverResponse);
+
+    return request
+        .get(url)
+        .query({ tconst: query })
+        .end(handleResponse);
+};
+
 exports.getTopRatedTVShows = function (serverResponse) {
     var url = baseURL + '/chart/tv';
     var handleResponse = helpers.handleResponse(serverResponse);
