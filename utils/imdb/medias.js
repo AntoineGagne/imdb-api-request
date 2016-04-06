@@ -7,6 +7,7 @@ var baseURL = 'http://app.imdb.com';
 
 exports.findMedias = function (query, serverResponse) {
     var url = 'http://www.imdb.com/xml/find';
+    var handleResponse = helpers.handleResponse(serverResponse);
 
     return request
         .get(url)
@@ -14,62 +15,33 @@ exports.findMedias = function (query, serverResponse) {
         .query({ nr: 1 })
         .query({ tt: 'on' })
         .query({ q: query })
-        .end(function (error, response) {
-            if (error || !response.ok) {
-                serverResponse
-                    .status(404)
-                    .json(helpers.errorMessage(404));
-            } else {
-                serverResponse.json(JSON.parse(response.text));
-            }
-        });
+        .end(handleResponse);
 };
 
 exports.getMedia = function (query, serverResponse) {
     var url = baseURL + '/title/maindetails';
+    var handleResponse = helpers.handleResponse(serverResponse);
 
     return request
         .get(url)
         .query({ tconst: query })
-        .end(function (error, response) {
-            if (error || !response.ok) {
-                serverResponse
-                    .status(404)
-                    .json(helpers.errorMessage(404));
-            } else {
-                serverResponse.json(JSON.parse(response.text));
-            }
-        });
+        .end(handleResponse);
 };
 
 exports.getTopRatedTVShows = function (serverResponse) {
     var url = baseURL + '/chart/tv';
+    var handleResponse = helpers.handleResponse(serverResponse);
 
     return request
         .get(url)
-        .end(function (error, response) {
-            if (error || !response.ok) {
-                serverResponse
-                    .status(400)
-                    .json(helpers.errorMessage(400));
-            } else {
-                serverResponse.json(JSON.parse(response.text));
-            }
-        });
+        .end(handleResponse);
 };
 
 exports.getTopRatedMovies = function (serverResponse) {
     var url = baseURL + '/chart/top';
+    var handleResponse = helpers.handleResponse(serverResponse);
 
     return request
         .get(url)
-        .end(function (error, response) {
-            if (error || !response.ok) {
-                serverResponse
-                    .status(400)
-                    .json(helpers.errorMessage(400));
-            } else {
-                serverResponse.json(JSON.parse(response.text));
-            }
-        });
+        .end(handleResponse);
 };

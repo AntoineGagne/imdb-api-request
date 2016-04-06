@@ -7,6 +7,7 @@ var baseURL = 'http://app.imdb.com';
 
 exports.findActors = function (query, serverResponse) {
     var url = 'http://www.imdb.com/xml/find';
+    var handleResponse = helpers.handleResponse(serverResponse);
 
     return request
         .get(url)
@@ -14,30 +15,15 @@ exports.findActors = function (query, serverResponse) {
         .query({ nr: 1 })
         .query({ nm: 'on' })
         .query({ q: query })
-        .end(function (error, response) {
-            if (error || !response.ok) {
-                serverResponse
-                    .status(404)
-                    .json(helpers.errorMessage(404));
-            } else {
-                serverResponse.json(JSON.parse(response.text));
-            }
-        });
+        .end(handleResponse);
 };
 
 exports.getActor = function (query, serverResponse) {
     var url = baseURL + '/name/maindetails';
+    var handleResponse = helpers.handleResponse(serverResponse);
 
     return request
         .get(url)
         .query({ nconst: query })
-        .end(function (error, response) {
-            if (error || !response.ok) {
-                serverResponse
-                    .status(404)
-                    .json(helpers.errorMessage(404));
-            } else {
-                serverResponse.json(JSON.parse(response.text));
-            }
-        });
+        .end(handleResponse);
 };
