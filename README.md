@@ -40,6 +40,66 @@ Parameter:
 }
 ```
 
+- `POST /medias/images`:
+
+Parameter:
+
+```js
+{
+    "query": "media+imdb+id"
+}
+```
+
+- `POST /medias/credits`:
+
+Parameter:
+
+```js
+{
+    "query": "media+imdb+id"
+}
+```
+
+- `POST /medias/usercomments`:
+
+Parameter:
+
+```js
+{
+    "query": "media+imdb+id"
+}
+```
+
+- `POST /medias/plot`:
+
+Parameter:
+
+```js
+{
+    "query": "media+imdb+id"
+}
+```
+
+- `GET /medias/top/tvshows`:
+
+Parameter:
+
+```js
+{
+    "query": "media+imdb+id"
+}
+```
+
+- `GET /medias/top/movies`:
+
+Parameter:
+
+```js
+{
+    "query": "media+imdb+id"
+}
+```
+
 - `POST /actors`:
 
 Parameter:
