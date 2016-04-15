@@ -22,3 +22,4 @@ app.use('/', medias.router);
 app.use('/', actors.router);
 
 app.listen(port);
+console.log('Listening on port ' + port);

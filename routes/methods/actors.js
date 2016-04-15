@@ -12,10 +12,11 @@ exports.findActors = function (request, response) {
 };
 
 exports.getActor = function (request, response) {
-    if (!request.body || !request.body.query) {
+    if (!request.params || !request.params.id) {
+        console.log(request);
         response.status(400).json(helpers.errorMessage(400));
     } else {
-        imdbRequests.getActor(request.body.query, response);
+        imdbRequests.getActor(request.params.id, response);
     }
 };
 

@@ -12,10 +12,10 @@ exports.findMedias = function (request, response) {
 };
 
 exports.getMedia = function (request, response) {
-    if (!request.body || !request.body.query) {
+    if (!request.params || !request.params.id) {
         response.status(400).json(helpers.errorMessage(400));
     } else {
-        imdbRequests.getMedia(request.body.query, response);
+        imdbRequests.getMedia(request.params.id, response);
     }
 };
 

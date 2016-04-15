@@ -7,8 +7,8 @@ var routes  = require('./methods/medias');
 router.route('/search/medias')
     .post(routes.findMedias);
 
-router.route('/medias')
-    .post(routes.getMedia);
+router.route('/medias/:id')
+    .get(routes.getMedia);
 
 router.route('/medias/images')
     .post(routes.getMediaImages);

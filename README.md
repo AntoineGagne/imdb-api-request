@@ -2,6 +2,10 @@
 
 An API that redirects calls to IMDB secret API.
 
+## Examples
+
+The `examples` folder has examples of API response.
+
 ## API Documentation
 
 This section lists all the routes of the API along with the required parameters.
@@ -36,14 +40,12 @@ Returns:
 
 ### Get by ID
 
-- `POST /medias`:
+- `GET /medias/:id`:
 
 Parameter:
 
 ```js
-{
-    "query": "media+imdb+id"
-}
+    id: The IMDB id of the media
 ```
 
 Returns:
@@ -127,14 +129,12 @@ Parameter:
 Returns:
     List of the 250 top rated movies
 
-- `POST /actors`:
+- `GET /actors/:id`:
 
 Parameter:
 
 ```js
-{
-    "query": "actor+imdb+id"
-}
+    id: The IMDB id of the actor
 ```
 
 Returns:
