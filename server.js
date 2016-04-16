@@ -19,6 +19,7 @@ var corsOptions = {
 app.use(cors(corsOptions));
 app.use(bodyParser.json());
 
+app.options('*', cors(corsOptions));
 app.use('/', medias.router);
 app.use('/', actors.router);
 
