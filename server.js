@@ -11,11 +11,13 @@ var port = process.env.PORT || 5000;
 var app  = express();
 
 var corsOptions = {
-    origin: '*',
+    origin: true,
+    allowedHeaders: ['Content-Type'],
     methods: ['POST', 'GET'],
     preflightContinue: true
 };
 
+app.use(cors(corsOptions));
 app.use(bodyParser.json());
 
 app.options('*', cors(corsOptions));
