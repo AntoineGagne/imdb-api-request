@@ -16,7 +16,7 @@ var corsOptions = {
     methods: ['POST', 'GET'],
 };
 
-app.use(cors(corsOptions));
+app.use(cors());
 app.use(bodyParser.json());
 
 app.options('*', cors(corsOptions));
