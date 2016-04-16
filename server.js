@@ -12,7 +12,7 @@ var app  = express();
 
 var corsOptions = {
     origin: true,
-    allowedHeaders: ['Content-Type'],
+    allowedHeaders: ['Content-Type', 'Accept'],
     methods: ['POST', 'GET'],
     preflightContinue: true
 };
