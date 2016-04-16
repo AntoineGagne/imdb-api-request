@@ -14,7 +14,6 @@ var corsOptions = {
     origin: true,
     allowedHeaders: ['Content-Type', 'Accept', 'X-Requested-With', 'Origin'],
     methods: ['POST', 'GET'],
-    preflightContinue: true
 };
 
 app.use(cors(corsOptions));
