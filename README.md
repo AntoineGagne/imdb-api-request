@@ -105,26 +105,10 @@ Returns:
 
 - `GET /medias/top/tvshows`:
 
-Parameter:
-
-```js
-{
-    "query": "media+imdb+id"
-}
-```
-
 Returns:
     List of the 250 top rated TV shows
 
 - `GET /medias/top/movies`:
-
-Parameter:
-
-```js
-{
-    "query": "media+imdb+id"
-}
-```
 
 Returns:
     List of the 250 top rated movies
