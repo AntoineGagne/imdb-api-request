@@ -1,5 +1,20 @@
 {
     "name": "imdb-api-request",
+    "author": {
+        "name": "Antoine Gagné",
+        "email": "antoine.gagne.2@ulaval.ca"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AntoineGagne/imdb-api-request"
+    },
+    "version": "v1.0.0",
+    "description": "An API that wraps over the mobile IMDB API",
+    "keywords": ["imdb", "api", "movies", "information", "television", "actors", "medias"],
+    "bugs": {
+        "url": "https://github.com/AntoineGagne/imdb-api-request/issues"
+    },
+    "license": "MIT",
     "main": "server.js",
     "dependencies": {
         "express": "~4.0.0",
