@@ -123,3 +123,7 @@ Parameter:
 
 Returns:
     The informations of the actor
+
+## License
+
+See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
