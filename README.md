@@ -8,121 +8,17 @@ The `examples` folder has examples of API response.
 
 ## API Documentation
 
-This section lists all the routes of the API along with the required parameters.
+See the [USAGES](USAGES.md) file for the different routes of the API.
 
-### Search by title/name
+## Disclaimer
 
-- `POST /search/medias`:
+Neither I, nor any developer who contributed to this project, accept any kind of liability for your use of this library.
 
-Parameter:
+IMDB does not permit use of its data by third parties without their consent.
 
-```js
-{
-    "query": "movie+or+tv+show+title"
-}
-```
+Using this library for anything other than limited personal use may result in an IP ban to the IMDB website.
 
-Returns:
-    List of movies or TV shows
-
-- `POST /search/actors`:
-
-Parameter:
-
-```js
-{
-    "query": "actor+name"
-}
-```
-
-Returns:
-    List of actors
-
-### Get by ID
-
-- `GET /medias/:id`:
-
-Parameter:
-
-```js
-    id: The IMDB id of the media
-```
-
-Returns:
-    The informations of the movie
-
-- `POST /medias/images`:
-
-Parameter:
-
-```js
-{
-    "query": "media+imdb+id"
-}
-```
-
-Returns:
-    The images of a movie
-
-- `POST /medias/credits`:
-
-Parameter:
-
-```js
-{
-    "query": "media+imdb+id"
-}
-```
-
-Returns:
-    The credits of the movie
-
-- `POST /medias/usercomments`:
-
-Parameter:
-
-```js
-{
-    "query": "media+imdb+id"
-}
-```
-
-Returns:
-    The user comments of the movie
-
-- `POST /medias/plot`:
-
-Parameter:
-
-```js
-{
-    "query": "media+imdb+id"
-}
-```
-
-Returns:
-    The plot of the movie
-
-- `GET /medias/top/tvshows`:
-
-Returns:
-    List of the 250 top rated TV shows
-
-- `GET /medias/top/movies`:
-
-Returns:
-    List of the 250 top rated movies
-
-- `GET /actors/:id`:
-
-Parameter:
-
-```js
-    id: The IMDB id of the actor
-```
-
-Returns:
-    The informations of the actor
+*This package is not endorsed or affiliated with IMDB, or IMDb.com, Inc.*
 
 ## License
 
