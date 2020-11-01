@@ -5,12 +5,12 @@ var router  = express.Router();
 var routes  = require('./methods/actors');
 
 router.route('/search/actors')
-    .post(routes.findActors);
+    .get(routes.findActors);
 
 router.route('/actors/:id')
     .get(routes.getActor);
 
 router.route('/actors/images')
-    .post(routes.getActorImages);
+    .get(routes.getActorImages);
 
 exports.router = router;

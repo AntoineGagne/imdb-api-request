@@ -2,7 +2,7 @@ This section lists all the routes of the API along with the required parameters.
 
 ### Search by title/name
 
-- `POST /search/medias`:
+- `GET /search/medias`:
 
 Parameter:
 
@@ -15,7 +15,7 @@ Parameter:
 Returns:
     List of movies or TV shows
 
-- `POST /search/actors`:
+- `GET /search/actors`:
 
 Parameter:
 
@@ -41,7 +41,7 @@ Parameter:
 Returns:
     The informations of the movie
 
-- `POST /medias/images`:
+- `GET /medias/images`:
 
 Parameter:
 
@@ -54,7 +54,7 @@ Parameter:
 Returns:
     The images of a movie
 
-- `POST /medias/credits`:
+- `GET /medias/credits`:
 
 Parameter:
 
@@ -67,7 +67,7 @@ Parameter:
 Returns:
     The credits of the movie
 
-- `POST /medias/usercomments`:
+- `GET /medias/usercomments`:
 
 Parameter:
 
@@ -80,7 +80,7 @@ Parameter:
 Returns:
     The user comments of the movie
 
-- `POST /medias/plot`:
+- `GET /medias/plot`:
 
 Parameter:
 

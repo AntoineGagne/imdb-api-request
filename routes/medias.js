@@ -5,22 +5,22 @@ var router  = express.Router();
 var routes  = require('./methods/medias');
 
 router.route('/search/medias')
-    .post(routes.findMedias);
+    .get(routes.findMedias);
 
 router.route('/medias/:id')
     .get(routes.getMedia);
 
 router.route('/medias/images')
-    .post(routes.getMediaImages);
+    .get(routes.getMediaImages);
 
 router.route('/medias/credits')
-    .post(routes.getMediaCredits);
+    .get(routes.getMediaCredits);
 
 router.route('/medias/usercomments')
-    .post(routes.getUserComments);
+    .get(routes.getUserComments);
 
 router.route('/medias/plot')
-    .post(routes.getMediaPlot);
+    .get(routes.getMediaPlot);
 
 router.route('/medias/top/tvshows')
     .get(routes.getTopRatedTVShows);
