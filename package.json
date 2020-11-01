@@ -10,17 +10,25 @@
     },
     "version": "v1.0.0",
     "description": "An API that wraps over the mobile IMDB API",
-    "keywords": ["imdb", "api", "movies", "information", "television", "actors", "medias"],
+    "keywords": [
+        "imdb",
+        "api",
+        "movies",
+        "information",
+        "television",
+        "actors",
+        "medias"
+    ],
     "bugs": {
         "url": "https://github.com/AntoineGagne/imdb-api-request/issues"
     },
     "license": "MIT",
     "main": "server.js",
     "dependencies": {
-        "express": "~4.0.0",
+        "body-parser": "^1.19.0",
         "cors": "~2.7.1",
-        "body-parser": "~1.0.1",
-        "superagent": "~1.8.3"
+        "express": "^4.17.1",
+        "superagent": "^6.1.0"
     },
     "scripts": {
         "start": "node server.js"

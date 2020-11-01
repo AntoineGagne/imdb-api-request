@@ -23,3 +23,13 @@ Using this library for anything other than limited personal use may result in an
 ## License
 
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
+
+## Development
+
+Install Node.JS and make sure it's in your PATH.
+
+Navigate to the root directory in command line and run `npm install`. Then, run `node server.js`.
+
+To make calls against the API, you can use a tool such as Postman.
+
+
